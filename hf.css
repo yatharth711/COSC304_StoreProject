@@ -1,0 +1,13 @@
+.logoDiv{
+    font-family: 'Contrail One';
+    text-align: center;
+    padding: 20;
+    background-color: #1a008f;
+    color: white;
+}
+
+.footer{
+    padding: 20px;
+    text-align: center;
+    margin-top: -50;
+}
